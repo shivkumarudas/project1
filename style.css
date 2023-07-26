@@ -1,0 +1,317 @@
+body{
+    background-color: rgb(209, 211, 212);
+    color: #253629;
+}
+.main{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40PX;
+    background-color: white;
+}
+header{
+    height: 100px;
+    background-color: white;
+    text-align: center;
+}
+.searchicon{
+    height: 25px;
+    text-align: right;
+    margin-left: 300px;
+}
+.heading{
+display: inline-block;
+    margin-right:250px ;
+}
+.header1{
+    display: inline-block;
+    margin-left:50px;
+    text-align: center;
+}
+.box1{
+    background-color: rgba(115, 106, 106, 0.2);
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 125px;
+    text-align: left;
+}
+.img1{
+    width: 1000px;
+    margin-left: 350px;
+}
+.heading2{
+    font-size: 40px;
+}
+.para1{
+    font-size: 20px;
+}
+.micrologo{
+    height: 15px;
+}
+.box2{
+    text-align: center;
+    background-color:  rgb(213, 223, 227);
+}
+.heading3{
+    display: inline-block;
+    padding-left: 150px;
+    margin-right: 50px;
+   color: rgb(118, 120, 121);
+}
+.box3{
+position: absolute;
+text-align: left;
+margin-left: 100px;
+}
+.box4{
+  margin-left: 500px;
+  position: absolute;
+  text-align: left;
+}
+.box5{
+    margin-left: 900px;
+    position: absolute;
+    text-align: left;
+}
+.box6{
+    margin-left: 1200px;
+    position: absolute;
+    text-align: left;
+}
+.box7{
+height: 100px;
+margin-top: 150px;
+text-align: left;
+}
+.about{
+    font-size: 60px;
+    margin-left: 100px;
+}
+.btn1{
+    background-color: white;
+    border: none;
+}
+.box8{
+position: absolute;
+text-align: left;
+margin-left: 100px;
+margin-top: 120px;
+}
+.box9{
+    margin-left: 400px;
+    text-align: left;
+    margin-top: 150px;
+}
+.box10{
+    text-align: left;
+    position: absolute;
+    margin-left: 100px;
+}
+.box11{
+    text-align: left;
+    margin-left: 400px;
+    margin-top:px;
+    position: absolute;
+}
+.aboutimg1{
+    width: 200px;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -200px;
+}
+.aboutimg2{
+    width: 250px;
+    margin-left: 1130px;
+    margin-top: -180px;
+
+}
+.aboutimg3{
+    width: 200px;
+    margin-left: -250px;
+    margin-top: 30px;
+    position: absolute;
+
+}
+.aboutimg4{
+    width: 250px;
+margin-left: 850px;
+margin-top: 110px;
+}
+.aboutdiv{
+    display: inline-block;
+}
+.productheading{
+    margin-left: 100px;
+font-size: 60px;
+position: absolute;
+}
+.butnseeall{
+    background-color: white;
+    border: none;
+    margin-left: 1300px;
+    margin-top: 80px;
+}
+.box12{
+    margin-top: 40px;
+    margin-left: 500px;
+    margin-right: 40PX;
+    background-color: white;
+}
+.product1{
+    display: inline-block;
+    margin-left: 50px;
+    text-align: center;
+    color: rgb(118, 120, 121);
+    font-size: 15px;
+}
+.box13{
+    height:300px;
+    width: 300px;
+    background-color: rgba(118, 120, 121,0.2);
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+}
+.box14{
+    height:300px;
+    width: 300px;
+    background-color:rgba(118, 120, 121,0.2);
+    margin-left: 550px;
+    position: absolute;
+    margin-top: 100px;
+    text-align: center;
+}
+.box15{
+    height:300px;
+    width: 300px; 
+    background-color:rgba(118, 120, 121,0.2);
+    margin-left: 1000px;
+    margin-right: 100px;
+    margin-top: 100px;
+    text-align: center;
+}
+.box16{
+    height:300px;
+    width: 300px;
+    background-color: rgba(118, 120, 121,0.2);
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 200px;
+    text-align: center;
+}
+.box17{
+    height:300px;
+    width: 300px;
+    background-color:rgba(118, 120, 121,0.2);
+    margin-left: 550px;
+    position: absolute;
+    margin-top: 200px;
+    text-align: center;
+}
+.box18{
+    height:300px;
+    width: 300px; 
+    background-color:rgba(118, 120, 121,0.2);
+    margin-left: 1000px;
+    margin-right: 100px;
+    margin-top: 200px;
+    text-align: center;
+}
+.productname{
+    padding-top: 20px;
+    font-size: 15px;
+   color:rgb(118, 120, 121);
+}
+.productimage1{
+    height: 350px;
+    width: 300px;
+    margin-top: 220px;
+    margin-left: 100px;
+    position: absolute;
+}
+.productimage2{
+    height: 350px;
+    width: 300px;
+    margin-top: 220px;
+    margin-left: 560px;
+    position: absolute;
+}
+.productimage3{
+    height: 350px;
+    width: 300px;
+    margin-top: -200px;
+    margin-left: 1000px;
+    position: absolute;
+}
+.productimage4{
+    height: 350px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 300px;
+    position: absolute;
+}
+.productimage5{
+    height: 350px;
+    width: 300px;
+    margin-top: 300px;
+    margin-left: 560px;
+    position: absolute;
+}
+.productimage6{
+    height: 350px;
+    width: 300px;
+    margin-top: -200px;
+    margin-left: 1000px;
+    position: absolute;
+}
+.box19{
+    background-color: rgb(216, 201, 201);
+    margin-left: 100px;
+     margin-right: 100px;
+     margin-top: 300px;
+     text-align: center;
+}
+.personimage{
+    height: 200px;
+    position: absolute;
+    margin-left:-300px ;
+}
+.btnarrow{
+    border-radius: 100px;
+}
+.footerdiv{
+    background-color: rgb(74, 90, 105);
+}
+.footer{
+    background-color: rgb(74,90,105);
+color: white;
+margin-left: 100px;
+}
+a{
+    text-decoration: none;
+color: white; 
+display: inline-block;
+}
+.foot1{
+position: absolute;
+}
+.foot2{
+    margin-left: 350px;
+    position: absolute;
+}
+.foot3{
+    margin-left: 600px;
+    position: absolute;
+}
+.foot4{
+    margin-left: 800px;
+    position: absolute;
+}
+.foot5{
+ margin-left: 1000px;
+}
+.footer{
+    display: inline-block;
+}
